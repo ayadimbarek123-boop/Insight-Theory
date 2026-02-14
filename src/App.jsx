@@ -1,21 +1,31 @@
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion, AnimatePresence } from 'framer-motion';
 import AnimatedBackground from './components/AnimatedBackground';
-import factsData from './facts.json';
+import factsData from '../data/facts.json';
 
 function App() {
   const { t, i18n } = useTranslation();
   const [currentFact, setCurrentFact] = useState('');
   const [searchTerm, setSearchTerm] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  const currentFactIndex = useRef(null);
 
-  const allFacts = factsData.facts;
+  // Get all facts based on the current language
+  const allFacts = useMemo(() => {
+    const currentLanguage = i18n.language || 'en';
+    return factsData.map(fact => fact.content[currentLanguage] || fact.content.en);
+  }, [i18n.language]);
 
-  // Update document direction for RTL languages
+  // Update document direction for RTL languages and sync displayed fact
   useEffect(() => {
     document.documentElement.dir = i18n.language === 'ar' ? 'rtl' : 'ltr';
-  }, [i18n.language]);
+    
+    // If a fact is currently displayed, update it to the new language
+    if (currentFactIndex.current !== null && allFacts.length > 0) {
+      setCurrentFact(allFacts[currentFactIndex.current]);
+    }
+  }, [i18n.language, allFacts]);
 
   // Filter facts based on search term using useMemo for performance
   const filteredFacts = useMemo(() => {
@@ -32,6 +42,7 @@ function App() {
     // Simulate a brief loading for effect
     setTimeout(() => {
       const randomIndex = Math.floor(Math.random() * allFacts.length);
+      currentFactIndex.current = randomIndex;
       setCurrentFact(allFacts[randomIndex]);
       setIsLoading(false);
     }, 300);
@@ -102,14 +113,14 @@ function App() {
         </header>
 
         {/* Main Content */}
-        <main className="container mx-auto px-4 py-8">
+        <main className="container mx-auto px-4 py-6">
           {/* Stats Section with Glassmorphism */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.1 }}
-              className="glass-effect glass-hover rounded-lg p-6 shadow-xl"
+              className="glass-effect glass-hover rounded-lg p-4 shadow-xl"
             >
               <div className="text-center">
                 <p className="text-electric-cyan text-sm uppercase tracking-wide">{t('totalFacts')}</p>
@@ -120,7 +131,7 @@ function App() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2 }}
-              className="glass-effect glass-hover rounded-lg p-6 shadow-xl"
+              className="glass-effect glass-hover rounded-lg p-4 shadow-xl"
             >
               <div className="text-center">
                 <p className="text-neon-purple text-sm uppercase tracking-wide">Active Language</p>
@@ -131,7 +142,7 @@ function App() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.3 }}
-              className="glass-effect glass-hover rounded-lg p-6 shadow-xl"
+              className="glass-effect glass-hover rounded-lg p-4 shadow-xl"
             >
               <div className="text-center">
                 <p className="text-pink-400 text-sm uppercase tracking-wide">Scientific Topics</p>
@@ -145,13 +156,13 @@ function App() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4 }}
-            className="glass-effect rounded-lg p-8 shadow-xl mb-8"
+            className="glass-effect rounded-lg p-6 shadow-xl mb-6"
           >
-            <h2 className="text-2xl font-bold mb-6 text-center bg-gradient-to-r from-electric-cyan to-neon-purple bg-clip-text text-transparent">
+            <h2 className="text-2xl font-bold mb-4 text-center bg-gradient-to-r from-electric-cyan to-neon-purple bg-clip-text text-transparent">
               Random Fact Generator
             </h2>
             
-            <div className="text-center mb-6">
+            <div className="text-center mb-4">
               <button
                 onClick={generateRandomFact}
                 disabled={isLoading}
@@ -179,7 +190,7 @@ function App() {
                   animate={{ opacity: 1, y: 0 }}
                   exit={{ opacity: 0, y: -20 }}
                   transition={{ duration: 0.5 }}
-                  className="glass-effect glass-hover rounded-lg p-6"
+                  className="glass-effect glass-hover rounded-lg p-4"
                 >
                   <div className="flex items-start gap-3">
                     <div className="text-electric-cyan text-2xl">💡</div>
@@ -195,24 +206,29 @@ function App() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5 }}
-            className="glass-effect rounded-lg p-8 shadow-xl"
+            className="glass-effect rounded-lg p-6 shadow-xl"
           >
-            <h2 className="text-2xl font-bold mb-6 text-center bg-gradient-to-r from-electric-cyan to-neon-purple bg-clip-text text-transparent">
+            <h2 className="text-2xl font-bold mb-4 text-center bg-gradient-to-r from-electric-cyan to-neon-purple bg-clip-text text-transparent">
               Search Scientific Facts
             </h2>
             
-            <div className="mb-6">
+            <div className="mb-4">
               <div className="relative">
                 <input
                   type="text"
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
                   placeholder={t('searchPlaceholder')}
-                  className="w-full glass-effect text-white rounded-lg py-3 px-4 pl-12 focus:outline-none focus:ring-2 focus:ring-electric-cyan transition placeholder-gray-400"
+                  className="w-full glass-effect text-white rounded-lg py-3 px-4 ps-12 focus:outline-none focus:ring-2 focus:ring-electric-cyan transition placeholder-gray-400"
                 />
                 {/* Fixed magnifying glass icon - 24px */}
                 <svg
-                  className="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-400"
+                  className="absolute text-gray-400 pointer-events-none"
+                  style={{
+                    left: '1rem',
+                    top: '50%',
+                    transform: 'translateY(-50%)'
+                  }}
                   width="24"
                   height="24"
                   fill="none"
@@ -270,7 +286,7 @@ function App() {
         </main>
 
         {/* Footer */}
-        <footer className="glass-effect mt-12 py-6">
+        <footer className="glass-effect mt-8 py-6">
           <div className="container mx-auto px-4 text-center text-gray-400">
             <p className="text-sm">
               © 2026 The Insight Theory - A Global Scientific Platform
