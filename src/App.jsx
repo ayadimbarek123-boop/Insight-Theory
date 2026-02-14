@@ -14,6 +14,9 @@ function App() {
   // Get all facts based on the current language
   const allFacts = useMemo(() => {
     const currentLanguage = i18n.language || 'en';
+    if (!Array.isArray(factsData) || factsData.length === 0) {
+      return [];
+    }
     return factsData.map(fact => fact.content[currentLanguage] || fact.content.en);
   }, [i18n.language]);
 
@@ -219,9 +222,9 @@ function App() {
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
                   placeholder={t('searchPlaceholder')}
-                  className="w-full glass-effect text-white rounded-lg py-3 px-4 ps-12 focus:outline-none focus:ring-2 focus:ring-electric-cyan transition placeholder-gray-400"
+                  className="w-full glass-effect text-white rounded-lg py-3 pe-4 ps-12 focus:outline-none focus:ring-2 focus:ring-electric-cyan transition placeholder-gray-400"
                 />
-                {/* Fixed magnifying glass icon - 24px */}
+                {/* Search icon - using inline styles due to Tailwind 4 positioning compatibility */}
                 <svg
                   className="absolute text-gray-400 pointer-events-none"
                   style={{
