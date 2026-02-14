@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
 import factsData from './facts.json';
 
@@ -6,22 +6,19 @@ function App() {
   const { t, i18n } = useTranslation();
   const [currentFact, setCurrentFact] = useState('');
   const [searchTerm, setSearchTerm] = useState('');
-  const [filteredFacts, setFilteredFacts] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
 
   const allFacts = factsData.facts;
 
-  useEffect(() => {
-    // Filter facts based on search term
+  // Filter facts based on search term using useMemo for performance
+  const filteredFacts = useMemo(() => {
     if (searchTerm.trim() === '') {
-      setFilteredFacts([]);
-    } else {
-      const filtered = allFacts.filter(fact =>
-        fact.toLowerCase().includes(searchTerm.toLowerCase())
-      );
-      setFilteredFacts(filtered);
+      return [];
     }
-  }, [searchTerm]);
+    return allFacts.filter(fact =>
+      fact.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+  }, [searchTerm, allFacts]);
 
   const generateRandomFact = () => {
     setIsLoading(true);
