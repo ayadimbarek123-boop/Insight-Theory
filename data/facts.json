@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 1,
+    "category": "Physics",
+    "content": {
+      "en": "Light travels at approximately 299,792 kilometers per second in a vacuum.",
+      "ar": "ينتقل الضوء بسرعة تقارب 299,792 كيلومتر في الثانية في الفراغ.",
+      "fr": "La lumière se déplace à environ 299 792 kilomètres par seconde dans le vide."
+    }
+  },
+  {
+    "id": 2,
+    "category": "Physics",
+    "content": {
+      "en": "The speed of sound in air at sea level is about 343 meters per second.",
+      "ar": "سرعة الصوت في الهواء عند مستوى سطح البحر حوالي 343 متر في الثانية.",
+      "fr": "La vitesse du son dans l'air au niveau de la mer est d'environ 343 mètres par seconde."
+    }
+  },
+  {
+    "id": 3,
+    "category": "Physics",
+    "content": {
+      "en": "Einstein's theory of relativity states that time and space are interconnected.",
+      "ar": "تنص نظرية آينشتاين النسبية على أن الزمان والمكان مترابطان.",
+      "fr": "La théorie de la relativité d'Einstein stipule que le temps et l'espace sont interconnectés."
+    }
+  },
+  {
+    "id": 4,
+    "category": "Physics",
+    "content": {
+      "en": "Gravity on Earth accelerates objects at 9.8 meters per second squared.",
+      "ar": "تسارع الجاذبية على الأرض الأجسام بمعدل 9.8 متر في الثانية المربعة.",
+      "fr": "La gravité sur Terre accélère les objets à 9,8 mètres par seconde carrée."
+    }
+  },
+  {
+    "id": 5,
+    "category": "Physics",
+    "content": {
+      "en": "Absolute zero is -273.15 degrees Celsius, the lowest possible temperature.",
+      "ar": "الصفر المطلق هو -273.15 درجة مئوية، وهي أدنى درجة حرارة ممكنة.",
+      "fr": "Le zéro absolu est de -273,15 degrés Celsius, la température la plus basse possible."
+    }
+  },
+  {
+    "id": 6,
+    "category": "Physics",
+    "content": {
+      "en": "Electrons carry a negative electric charge.",
+      "ar": "تحمل الإلكترونات شحنة كهربائية سالبة.",
+      "fr": "Les électrons portent une charge électrique négative."
+    }
+  },
+  {
+    "id": 7,
+    "category": "Physics",
+    "content": {
+      "en": "Protons carry a positive electric charge.",
+      "ar": "تحمل البروتونات شحنة كهربائية موجبة.",
+      "fr": "Les protons portent une charge électrique positive."
+    }
+  },
+  {
+    "id": 8,
+    "category": "Physics",
+    "content": {
+      "en": "Neutrons have no electric charge.",
+      "ar": "النيوترونات ليس لها شحنة كهربائية.",
+      "fr": "Les neutrons n'ont pas de charge électrique."
+    }
+  },
+  {
+    "id": 9,
+    "category": "Physics",
+    "content": {
+      "en": "The universe is approximately 13.8 billion years old.",
+      "ar": "عمر الكون يبلغ حوالي 13.8 مليار سنة.",
+      "fr": "L'univers a environ 13,8 milliards d'années."
+    }
+  },
+  {
+    "id": 10,
+    "category": "Physics",
+    "content": {
+      "en": "Black holes have such strong gravity that light cannot escape them.",
+      "ar": "الثقوب السوداء لديها جاذبية قوية لدرجة أن الضوء لا يمكنه الهروب منها.",
+      "fr": "Les trous noirs ont une gravité si forte que la lumière ne peut s'en échapper."
+    }
+  },
+  {
+    "id": 11,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 11).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 11).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 11)."
+    }
+  },
+  {
+    "id": 12,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 12).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 12).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 12)."
+    }
+  },
+  {
+    "id": 13,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 13).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 13).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 13)."
+    }
+  },
+  {
+    "id": 14,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 14).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 14).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 14)."
+    }
+  },
+  {
+    "id": 15,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 15).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 15).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 15)."
+    }
+  },
+  {
+    "id": 16,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 16).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 16).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 16)."
+    }
+  },
+  {
+    "id": 17,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 17).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 17).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 17)."
+    }
+  },
+  {
+    "id": 18,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 18).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 18).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 18)."
+    }
+  },
+  {
+    "id": 19,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 19).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 19).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 19)."
+    }
+  },
+  {
+    "id": 20,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 20).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 20).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 20)."
+    }
+  },
+  {
+    "id": 21,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 21).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 21).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 21)."
+    }
+  },
+  {
+    "id": 22,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 22).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 22).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 22)."
+    }
+  },
+  {
+    "id": 23,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 23).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 23).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 23)."
+    }
+  },
+  {
+    "id": 24,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 24).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 24).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 24)."
+    }
+  },
+  {
+    "id": 25,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 25).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 25).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 25)."
+    }
+  },
+  {
+    "id": 26,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 26).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 26).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 26)."
+    }
+  },
+  {
+    "id": 27,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 27).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 27).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 27)."
+    }
+  },
+  {
+    "id": 28,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 28).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 28).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 28)."
+    }
+  },
+  {
+    "id": 29,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 29).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 29).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 29)."
+    }
+  },
+  {
+    "id": 30,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 30).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 30).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 30)."
+    }
+  },
+  {
+    "id": 31,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 31).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 31).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 31)."
+    }
+  },
+  {
+    "id": 32,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 32).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 32).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 32)."
+    }
+  },
+  {
+    "id": 33,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 33).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 33).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 33)."
+    }
+  },
+  {
+    "id": 34,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 34).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 34).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 34)."
+    }
+  },
+  {
+    "id": 35,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 35).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 35).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 35)."
+    }
+  },
+  {
+    "id": 36,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 36).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 36).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 36)."
+    }
+  },
+  {
+    "id": 37,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 37).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 37).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 37)."
+    }
+  },
+  {
+    "id": 38,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 38).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 38).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 38)."
+    }
+  },
+  {
+    "id": 39,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 39).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 39).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 39)."
+    }
+  },
+  {
+    "id": 40,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 40).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 40).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 40)."
+    }
+  },
+  {
+    "id": 41,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 41).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 41).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 41)."
+    }
+  },
+  {
+    "id": 42,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 42).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 42).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 42)."
+    }
+  },
+  {
+    "id": 43,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 43).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 43).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 43)."
+    }
+  },
+  {
+    "id": 44,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 44).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 44).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 44)."
+    }
+  },
+  {
+    "id": 45,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 45).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 45).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 45)."
+    }
+  },
+  {
+    "id": 46,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 46).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 46).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 46)."
+    }
+  },
+  {
+    "id": 47,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 47).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 47).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 47)."
+    }
+  },
+  {
+    "id": 48,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 48).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 48).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 48)."
+    }
+  },
+  {
+    "id": 49,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 49).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 49).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 49)."
+    }
+  },
+  {
+    "id": 50,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 50).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 50).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 50)."
+    }
+  },
+  {
+    "id": 51,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 51).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 51).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 51)."
+    }
+  },
+  {
+    "id": 52,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 52).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 52).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 52)."
+    }
+  },
+  {
+    "id": 53,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 53).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 53).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 53)."
+    }
+  },
+  {
+    "id": 54,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 54).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 54).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 54)."
+    }
+  },
+  {
+    "id": 55,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 55).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 55).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 55)."
+    }
+  },
+  {
+    "id": 56,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 56).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 56).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 56)."
+    }
+  },
+  {
+    "id": 57,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 57).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 57).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 57)."
+    }
+  },
+  {
+    "id": 58,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 58).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 58).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 58)."
+    }
+  },
+  {
+    "id": 59,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 59).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 59).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 59)."
+    }
+  },
+  {
+    "id": 60,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 60).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 60).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 60)."
+    }
+  },
+  {
+    "id": 61,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 61).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 61).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 61)."
+    }
+  },
+  {
+    "id": 62,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 62).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 62).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 62)."
+    }
+  },
+  {
+    "id": 63,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 63).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 63).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 63)."
+    }
+  },
+  {
+    "id": 64,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 64).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 64).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 64)."
+    }
+  },
+  {
+    "id": 65,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 65).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 65).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 65)."
+    }
+  },
+  {
+    "id": 66,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 66).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 66).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 66)."
+    }
+  },
+  {
+    "id": 67,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 67).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 67).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 67)."
+    }
+  },
+  {
+    "id": 68,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 68).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 68).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 68)."
+    }
+  },
+  {
+    "id": 69,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 69).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 69).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 69)."
+    }
+  },
+  {
+    "id": 70,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 70).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 70).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 70)."
+    }
+  },
+  {
+    "id": 71,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 71).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 71).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 71)."
+    }
+  },
+  {
+    "id": 72,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 72).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 72).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 72)."
+    }
+  },
+  {
+    "id": 73,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 73).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 73).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 73)."
+    }
+  },
+  {
+    "id": 74,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 74).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 74).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 74)."
+    }
+  },
+  {
+    "id": 75,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 75).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 75).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 75)."
+    }
+  },
+  {
+    "id": 76,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 76).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 76).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 76)."
+    }
+  },
+  {
+    "id": 77,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 77).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 77).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 77)."
+    }
+  },
+  {
+    "id": 78,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 78).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 78).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 78)."
+    }
+  },
+  {
+    "id": 79,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 79).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 79).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 79)."
+    }
+  },
+  {
+    "id": 80,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 80).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 80).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 80)."
+    }
+  },
+  {
+    "id": 81,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 81).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 81).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 81)."
+    }
+  },
+  {
+    "id": 82,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 82).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 82).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 82)."
+    }
+  },
+  {
+    "id": 83,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 83).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 83).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 83)."
+    }
+  },
+  {
+    "id": 84,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 84).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 84).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 84)."
+    }
+  },
+  {
+    "id": 85,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 85).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 85).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 85)."
+    }
+  },
+  {
+    "id": 86,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 86).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 86).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 86)."
+    }
+  },
+  {
+    "id": 87,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 87).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 87).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 87)."
+    }
+  },
+  {
+    "id": 88,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 88).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 88).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 88)."
+    }
+  },
+  {
+    "id": 89,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 89).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 89).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 89)."
+    }
+  },
+  {
+    "id": 90,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 90).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 90).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 90)."
+    }
+  },
+  {
+    "id": 91,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 91).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 91).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 91)."
+    }
+  },
+  {
+    "id": 92,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 92).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 92).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 92)."
+    }
+  },
+  {
+    "id": 93,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 93).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 93).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 93)."
+    }
+  },
+  {
+    "id": 94,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 94).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 94).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 94)."
+    }
+  },
+  {
+    "id": 95,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 95).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 95).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 95)."
+    }
+  },
+  {
+    "id": 96,
+    "category": "Physics",
+    "content": {
+      "en": "Newton's first law states that an object at rest stays at rest unless acted upon by force (fact 96).",
+      "ar": "ينص قانون نيوتن الأول على أن الجسم الساكن يبقى ساكنًا ما لم تؤثر عليه قوة (حقيقة 96).",
+      "fr": "La première loi de Newton stipule qu'un objet au repos reste au repos sauf si une force agit sur lui (fait 96)."
+    }
+  },
+  {
+    "id": 97,
+    "category": "Physics",
+    "content": {
+      "en": "Energy cannot be created or destroyed, only transformed (fact 97).",
+      "ar": "لا يمكن خلق الطاقة أو تدميرها، بل تحويلها فقط (حقيقة 97).",
+      "fr": "L'énergie ne peut être créée ni détruite, seulement transformée (fait 97)."
+    }
+  },
+  {
+    "id": 98,
+    "category": "Physics",
+    "content": {
+      "en": "The principle of conservation of momentum applies in closed systems (fact 98).",
+      "ar": "ينطبق مبدأ حفظ الزخم في الأنظمة المغلقة (حقيقة 98).",
+      "fr": "Le principe de conservation de la quantité de mouvement s'applique dans les systèmes fermés (fait 98)."
+    }
+  },
+  {
+    "id": 99,
+    "category": "Physics",
+    "content": {
+      "en": "Electromagnetic waves include radio waves, microwaves, and visible light (fact 99).",
+      "ar": "تشمل الموجات الكهرومغناطيسية الموجات الراديوية والموجات الدقيقة والضوء المرئي (حقيقة 99).",
+      "fr": "Les ondes électromagnétiques comprennent les ondes radio, les micro-ondes et la lumière visible (fait 99)."
+    }
+  },
+  {
+    "id": 100,
+    "category": "Physics",
+    "content": {
+      "en": "Quantum mechanics describes the behavior of matter at atomic scales (fact 100).",
+      "ar": "تصف ميكانيكا الكم سلوك المادة على المقاييس الذرية (حقيقة 100).",
+      "fr": "La mécanique quantique décrit le comportement de la matière à l'échelle atomique (fait 100)."
+    }
+  },
+  {
+    "id": 101,
+    "category": "Chemistry",
+    "content": {
+      "en": "Water (H2O) is composed of two hydrogen atoms and one oxygen atom.",
+      "ar": "الماء (H2O) يتكون من ذرتي هيدروجين وذرة أكسجين واحدة.",
+      "fr": "L'eau (H2O) est composée de deux atomes d'hydrogène et d'un atome d'oxygène."
+    }
+  },
+  {
+    "id": 102,
+    "category": "Chemistry",
+    "content": {
+      "en": "The periodic table organizes elements by atomic number.",
+      "ar": "يرتب الجدول الدوري العناصر حسب العدد الذري.",
+      "fr": "Le tableau périodique organise les éléments par numéro atomique."
+    }
+  },
+  {
+    "id": 103,
+    "category": "Chemistry",
+    "content": {
+      "en": "Gold has the chemical symbol Au from the Latin word 'aurum'.",
+      "ar": "الذهب له الرمز الكيميائي Au من الكلمة اللاتينية 'aurum'.",
+      "fr": "L'or a le symbole chimique Au du mot latin 'aurum'."
+    }
+  },
+  {
+    "id": 104,
+    "category": "Chemistry",
+    "content": {
+      "en": "Carbon is the basis of all organic compounds.",
+      "ar": "الكربون هو أساس جميع المركبات العضوية.",
+      "fr": "Le carbone est la base de tous les composés organiques."
+    }
+  },
+  {
+    "id": 105,
+    "category": "Chemistry",
+    "content": {
+      "en": "pH measures the acidity or alkalinity of a solution.",
+      "ar": "يقيس الرقم الهيدروجيني حموضة أو قلوية المحلول.",
+      "fr": "Le pH mesure l'acidité ou l'alcalinité d'une solution."
+    }
+  },
+  {
+    "id": 106,
+    "category": "Chemistry",
+    "content": {
+      "en": "Noble gases are inert and rarely form compounds.",
+      "ar": "الغازات النبيلة خاملة ونادراً ما تشكل مركبات.",
+      "fr": "Les gaz nobles sont inertes et forment rarement des composés."
+    }
+  },
+  {
+    "id": 107,
+    "category": "Chemistry",
+    "content": {
+      "en": "Sodium chloride (NaCl) is common table salt.",
+      "ar": "كلوريد الصوديوم (NaCl) هو ملح الطعام الشائع.",
+      "fr": "Le chlorure de sodium (NaCl) est le sel de table commun."
+    }
+  },
+  {
+    "id": 108,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical reactions involve the breaking and forming of bonds.",
+      "ar": "تتضمن التفاعلات الكيميائية كسر وتكوين الروابط.",
+      "fr": "Les réactions chimiques impliquent la rupture et la formation de liaisons."
+    }
+  },
+  {
+    "id": 109,
+    "category": "Chemistry",
+    "content": {
+      "en": "Catalysts speed up reactions without being consumed.",
+      "ar": "تسرع المحفزات التفاعلات دون أن تستهلك.",
+      "fr": "Les catalyseurs accélèrent les réactions sans être consommés."
+    }
+  },
+  {
+    "id": 110,
+    "category": "Chemistry",
+    "content": {
+      "en": "The mole is a unit that represents 6.022 × 10²³ particles.",
+      "ar": "المول هو وحدة تمثل 6.022 × 10²³ جزيء.",
+      "fr": "La mole est une unité qui représente 6,022 × 10²³ particules."
+    }
+  },
+  {
+    "id": 111,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 111).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 111).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 111)."
+    }
+  },
+  {
+    "id": 112,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 112).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 112).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 112)."
+    }
+  },
+  {
+    "id": 113,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 113).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 113).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 113)."
+    }
+  },
+  {
+    "id": 114,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 114).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 114).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 114)."
+    }
+  },
+  {
+    "id": 115,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 115).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 115).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 115)."
+    }
+  },
+  {
+    "id": 116,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 116).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 116).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 116)."
+    }
+  },
+  {
+    "id": 117,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 117).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 117).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 117)."
+    }
+  },
+  {
+    "id": 118,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 118).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 118).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 118)."
+    }
+  },
+  {
+    "id": 119,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 119).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 119).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 119)."
+    }
+  },
+  {
+    "id": 120,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 120).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 120).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 120)."
+    }
+  },
+  {
+    "id": 121,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 121).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 121).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 121)."
+    }
+  },
+  {
+    "id": 122,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 122).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 122).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 122)."
+    }
+  },
+  {
+    "id": 123,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 123).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 123).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 123)."
+    }
+  },
+  {
+    "id": 124,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 124).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 124).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 124)."
+    }
+  },
+  {
+    "id": 125,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 125).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 125).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 125)."
+    }
+  },
+  {
+    "id": 126,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 126).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 126).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 126)."
+    }
+  },
+  {
+    "id": 127,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 127).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 127).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 127)."
+    }
+  },
+  {
+    "id": 128,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 128).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 128).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 128)."
+    }
+  },
+  {
+    "id": 129,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 129).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 129).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 129)."
+    }
+  },
+  {
+    "id": 130,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 130).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 130).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 130)."
+    }
+  },
+  {
+    "id": 131,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 131).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 131).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 131)."
+    }
+  },
+  {
+    "id": 132,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 132).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 132).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 132)."
+    }
+  },
+  {
+    "id": 133,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 133).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 133).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 133)."
+    }
+  },
+  {
+    "id": 134,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 134).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 134).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 134)."
+    }
+  },
+  {
+    "id": 135,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 135).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 135).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 135)."
+    }
+  },
+  {
+    "id": 136,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 136).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 136).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 136)."
+    }
+  },
+  {
+    "id": 137,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 137).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 137).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 137)."
+    }
+  },
+  {
+    "id": 138,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 138).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 138).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 138)."
+    }
+  },
+  {
+    "id": 139,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 139).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 139).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 139)."
+    }
+  },
+  {
+    "id": 140,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 140).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 140).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 140)."
+    }
+  },
+  {
+    "id": 141,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 141).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 141).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 141)."
+    }
+  },
+  {
+    "id": 142,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 142).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 142).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 142)."
+    }
+  },
+  {
+    "id": 143,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 143).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 143).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 143)."
+    }
+  },
+  {
+    "id": 144,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 144).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 144).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 144)."
+    }
+  },
+  {
+    "id": 145,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 145).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 145).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 145)."
+    }
+  },
+  {
+    "id": 146,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 146).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 146).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 146)."
+    }
+  },
+  {
+    "id": 147,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 147).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 147).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 147)."
+    }
+  },
+  {
+    "id": 148,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 148).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 148).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 148)."
+    }
+  },
+  {
+    "id": 149,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 149).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 149).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 149)."
+    }
+  },
+  {
+    "id": 150,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 150).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 150).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 150)."
+    }
+  },
+  {
+    "id": 151,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 151).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 151).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 151)."
+    }
+  },
+  {
+    "id": 152,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 152).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 152).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 152)."
+    }
+  },
+  {
+    "id": 153,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 153).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 153).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 153)."
+    }
+  },
+  {
+    "id": 154,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 154).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 154).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 154)."
+    }
+  },
+  {
+    "id": 155,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 155).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 155).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 155)."
+    }
+  },
+  {
+    "id": 156,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 156).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 156).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 156)."
+    }
+  },
+  {
+    "id": 157,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 157).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 157).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 157)."
+    }
+  },
+  {
+    "id": 158,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 158).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 158).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 158)."
+    }
+  },
+  {
+    "id": 159,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 159).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 159).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 159)."
+    }
+  },
+  {
+    "id": 160,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 160).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 160).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 160)."
+    }
+  },
+  {
+    "id": 161,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 161).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 161).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 161)."
+    }
+  },
+  {
+    "id": 162,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 162).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 162).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 162)."
+    }
+  },
+  {
+    "id": 163,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 163).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 163).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 163)."
+    }
+  },
+  {
+    "id": 164,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 164).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 164).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 164)."
+    }
+  },
+  {
+    "id": 165,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 165).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 165).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 165)."
+    }
+  },
+  {
+    "id": 166,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 166).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 166).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 166)."
+    }
+  },
+  {
+    "id": 167,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 167).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 167).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 167)."
+    }
+  },
+  {
+    "id": 168,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 168).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 168).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 168)."
+    }
+  },
+  {
+    "id": 169,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 169).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 169).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 169)."
+    }
+  },
+  {
+    "id": 170,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 170).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 170).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 170)."
+    }
+  },
+  {
+    "id": 171,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 171).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 171).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 171)."
+    }
+  },
+  {
+    "id": 172,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 172).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 172).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 172)."
+    }
+  },
+  {
+    "id": 173,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 173).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 173).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 173)."
+    }
+  },
+  {
+    "id": 174,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 174).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 174).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 174)."
+    }
+  },
+  {
+    "id": 175,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 175).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 175).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 175)."
+    }
+  },
+  {
+    "id": 176,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 176).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 176).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 176)."
+    }
+  },
+  {
+    "id": 177,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 177).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 177).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 177)."
+    }
+  },
+  {
+    "id": 178,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 178).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 178).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 178)."
+    }
+  },
+  {
+    "id": 179,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 179).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 179).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 179)."
+    }
+  },
+  {
+    "id": 180,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 180).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 180).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 180)."
+    }
+  },
+  {
+    "id": 181,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 181).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 181).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 181)."
+    }
+  },
+  {
+    "id": 182,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 182).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 182).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 182)."
+    }
+  },
+  {
+    "id": 183,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 183).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 183).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 183)."
+    }
+  },
+  {
+    "id": 184,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 184).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 184).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 184)."
+    }
+  },
+  {
+    "id": 185,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 185).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 185).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 185)."
+    }
+  },
+  {
+    "id": 186,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 186).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 186).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 186)."
+    }
+  },
+  {
+    "id": 187,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 187).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 187).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 187)."
+    }
+  },
+  {
+    "id": 188,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 188).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 188).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 188)."
+    }
+  },
+  {
+    "id": 189,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 189).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 189).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 189)."
+    }
+  },
+  {
+    "id": 190,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 190).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 190).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 190)."
+    }
+  },
+  {
+    "id": 191,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 191).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 191).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 191)."
+    }
+  },
+  {
+    "id": 192,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 192).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 192).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 192)."
+    }
+  },
+  {
+    "id": 193,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 193).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 193).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 193)."
+    }
+  },
+  {
+    "id": 194,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 194).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 194).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 194)."
+    }
+  },
+  {
+    "id": 195,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 195).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 195).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 195)."
+    }
+  },
+  {
+    "id": 196,
+    "category": "Chemistry",
+    "content": {
+      "en": "Chemical elements combine to form compounds with unique properties (fact 196).",
+      "ar": "تتحد العناصر الكيميائية لتشكل مركبات ذات خصائص فريدة (حقيقة 196).",
+      "fr": "Les éléments chimiques se combinent pour former des composés aux propriétés uniques (fait 196)."
+    }
+  },
+  {
+    "id": 197,
+    "category": "Chemistry",
+    "content": {
+      "en": "Oxidation involves the loss of electrons in a chemical reaction (fact 197).",
+      "ar": "يتضمن الأكسدة فقدان الإلكترونات في تفاعل كيميائي (حقيقة 197).",
+      "fr": "L'oxydation implique la perte d'électrons dans une réaction chimique (fait 197)."
+    }
+  },
+  {
+    "id": 198,
+    "category": "Chemistry",
+    "content": {
+      "en": "Reduction involves the gain of electrons in a chemical reaction (fact 198).",
+      "ar": "يتضمن الاختزال اكتساب الإلكترونات في تفاعل كيميائي (حقيقة 198).",
+      "fr": "La réduction implique le gain d'électrons dans une réaction chimique (fait 198)."
+    }
+  },
+  {
+    "id": 199,
+    "category": "Chemistry",
+    "content": {
+      "en": "Covalent bonds involve the sharing of electron pairs (fact 199).",
+      "ar": "تتضمن الروابط التساهمية مشاركة أزواج الإلكترونات (حقيقة 199).",
+      "fr": "Les liaisons covalentes impliquent le partage de paires d'électrons (fait 199)."
+    }
+  },
+  {
+    "id": 200,
+    "category": "Chemistry",
+    "content": {
+      "en": "Ionic bonds form between oppositely charged ions (fact 200).",
+      "ar": "تتشكل الروابط الأيونية بين الأيونات المشحونة بشكل معاكس (حقيقة 200).",
+      "fr": "Les liaisons ioniques se forment entre des ions de charges opposées (fait 200)."
+    }
+  },
+  {
+    "id": 201,
+    "category": "Biology",
+    "content": {
+      "en": "DNA carries the genetic instructions for all living organisms.",
+      "ar": "يحمل الحمض النووي التعليمات الوراثية لجميع الكائنات الحية.",
+      "fr": "L'ADN porte les instructions génétiques de tous les organismes vivants."
+    }
+  },
+  {
+    "id": 202,
+    "category": "Biology",
+    "content": {
+      "en": "The human body has 206 bones in adults.",
+      "ar": "جسم الإنسان يحتوي على 206 عظمة عند البالغين.",
+      "fr": "Le corps humain a 206 os chez les adultes."
+    }
+  },
+  {
+    "id": 203,
+    "category": "Biology",
+    "content": {
+      "en": "Mitochondria are the powerhouses of the cell.",
+      "ar": "الميتوكوندريا هي محطات توليد الطاقة في الخلية.",
+      "fr": "Les mitochondries sont les centrales énergétiques de la cellule."
+    }
+  },
+  {
+    "id": 204,
+    "category": "Biology",
+    "content": {
+      "en": "Plants perform photosynthesis to convert sunlight into energy.",
+      "ar": "تقوم النباتات بعملية التمثيل الضوئي لتحويل ضوء الشمس إلى طاقة.",
+      "fr": "Les plantes effectuent la photosynthèse pour convertir la lumière du soleil en énergie."
+    }
+  },
+  {
+    "id": 205,
+    "category": "Biology",
+    "content": {
+      "en": "The human brain contains approximately 86 billion neurons.",
+      "ar": "يحتوي الدماغ البشري على حوالي 86 مليار خلية عصبية.",
+      "fr": "Le cerveau humain contient environ 86 milliards de neurones."
+    }
+  },
+  {
+    "id": 206,
+    "category": "Biology",
+    "content": {
+      "en": "Red blood cells transport oxygen throughout the body.",
+      "ar": "تنقل خلايا الدم الحمراء الأكسجين في جميع أنحاء الجسم.",
+      "fr": "Les globules rouges transportent l'oxygène dans tout le corps."
+    }
+  },
+  {
+    "id": 207,
+    "category": "Biology",
+    "content": {
+      "en": "The heart pumps about 5 liters of blood per minute.",
+      "ar": "يضخ القلب حوالي 5 لترات من الدم في الدقيقة.",
+      "fr": "Le cœur pompe environ 5 litres de sang par minute."
+    }
+  },
+  {
+    "id": 208,
+    "category": "Biology",
+    "content": {
+      "en": "Bacteria are single-celled microorganisms.",
+      "ar": "البكتيريا كائنات دقيقة وحيدة الخلية.",
+      "fr": "Les bactéries sont des micro-organismes unicellulaires."
+    }
+  },
+  {
+    "id": 209,
+    "category": "Biology",
+    "content": {
+      "en": "The human genome contains about 20,000-25,000 genes.",
+      "ar": "يحتوي الجينوم البشري على حوالي 20,000-25,000 جين.",
+      "fr": "Le génome humain contient environ 20 000 à 25 000 gènes."
+    }
+  },
+  {
+    "id": 210,
+    "category": "Biology",
+    "content": {
+      "en": "Chlorophyll gives plants their green color.",
+      "ar": "يعطي الكلوروفيل النباتات لونها الأخضر.",
+      "fr": "La chlorophylle donne aux plantes leur couleur verte."
+    }
+  },
+  {
+    "id": 211,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 211).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 211).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 211)."
+    }
+  },
+  {
+    "id": 212,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 212).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 212).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 212)."
+    }
+  },
+  {
+    "id": 213,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 213).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 213).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 213)."
+    }
+  },
+  {
+    "id": 214,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 214).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 214).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 214)."
+    }
+  },
+  {
+    "id": 215,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 215).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 215).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 215)."
+    }
+  },
+  {
+    "id": 216,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 216).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 216).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 216)."
+    }
+  },
+  {
+    "id": 217,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 217).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 217).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 217)."
+    }
+  },
+  {
+    "id": 218,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 218).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 218).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 218)."
+    }
+  },
+  {
+    "id": 219,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 219).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 219).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 219)."
+    }
+  },
+  {
+    "id": 220,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 220).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 220).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 220)."
+    }
+  },
+  {
+    "id": 221,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 221).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 221).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 221)."
+    }
+  },
+  {
+    "id": 222,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 222).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 222).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 222)."
+    }
+  },
+  {
+    "id": 223,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 223).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 223).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 223)."
+    }
+  },
+  {
+    "id": 224,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 224).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 224).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 224)."
+    }
+  },
+  {
+    "id": 225,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 225).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 225).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 225)."
+    }
+  },
+  {
+    "id": 226,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 226).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 226).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 226)."
+    }
+  },
+  {
+    "id": 227,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 227).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 227).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 227)."
+    }
+  },
+  {
+    "id": 228,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 228).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 228).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 228)."
+    }
+  },
+  {
+    "id": 229,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 229).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 229).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 229)."
+    }
+  },
+  {
+    "id": 230,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 230).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 230).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 230)."
+    }
+  },
+  {
+    "id": 231,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 231).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 231).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 231)."
+    }
+  },
+  {
+    "id": 232,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 232).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 232).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 232)."
+    }
+  },
+  {
+    "id": 233,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 233).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 233).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 233)."
+    }
+  },
+  {
+    "id": 234,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 234).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 234).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 234)."
+    }
+  },
+  {
+    "id": 235,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 235).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 235).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 235)."
+    }
+  },
+  {
+    "id": 236,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 236).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 236).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 236)."
+    }
+  },
+  {
+    "id": 237,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 237).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 237).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 237)."
+    }
+  },
+  {
+    "id": 238,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 238).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 238).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 238)."
+    }
+  },
+  {
+    "id": 239,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 239).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 239).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 239)."
+    }
+  },
+  {
+    "id": 240,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 240).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 240).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 240)."
+    }
+  },
+  {
+    "id": 241,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 241).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 241).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 241)."
+    }
+  },
+  {
+    "id": 242,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 242).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 242).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 242)."
+    }
+  },
+  {
+    "id": 243,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 243).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 243).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 243)."
+    }
+  },
+  {
+    "id": 244,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 244).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 244).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 244)."
+    }
+  },
+  {
+    "id": 245,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 245).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 245).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 245)."
+    }
+  },
+  {
+    "id": 246,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 246).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 246).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 246)."
+    }
+  },
+  {
+    "id": 247,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 247).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 247).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 247)."
+    }
+  },
+  {
+    "id": 248,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 248).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 248).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 248)."
+    }
+  },
+  {
+    "id": 249,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 249).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 249).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 249)."
+    }
+  },
+  {
+    "id": 250,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 250).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 250).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 250)."
+    }
+  },
+  {
+    "id": 251,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 251).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 251).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 251)."
+    }
+  },
+  {
+    "id": 252,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 252).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 252).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 252)."
+    }
+  },
+  {
+    "id": 253,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 253).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 253).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 253)."
+    }
+  },
+  {
+    "id": 254,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 254).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 254).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 254)."
+    }
+  },
+  {
+    "id": 255,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 255).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 255).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 255)."
+    }
+  },
+  {
+    "id": 256,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 256).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 256).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 256)."
+    }
+  },
+  {
+    "id": 257,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 257).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 257).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 257)."
+    }
+  },
+  {
+    "id": 258,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 258).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 258).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 258)."
+    }
+  },
+  {
+    "id": 259,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 259).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 259).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 259)."
+    }
+  },
+  {
+    "id": 260,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 260).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 260).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 260)."
+    }
+  },
+  {
+    "id": 261,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 261).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 261).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 261)."
+    }
+  },
+  {
+    "id": 262,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 262).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 262).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 262)."
+    }
+  },
+  {
+    "id": 263,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 263).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 263).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 263)."
+    }
+  },
+  {
+    "id": 264,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 264).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 264).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 264)."
+    }
+  },
+  {
+    "id": 265,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 265).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 265).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 265)."
+    }
+  },
+  {
+    "id": 266,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 266).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 266).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 266)."
+    }
+  },
+  {
+    "id": 267,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 267).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 267).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 267)."
+    }
+  },
+  {
+    "id": 268,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 268).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 268).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 268)."
+    }
+  },
+  {
+    "id": 269,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 269).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 269).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 269)."
+    }
+  },
+  {
+    "id": 270,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 270).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 270).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 270)."
+    }
+  },
+  {
+    "id": 271,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 271).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 271).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 271)."
+    }
+  },
+  {
+    "id": 272,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 272).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 272).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 272)."
+    }
+  },
+  {
+    "id": 273,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 273).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 273).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 273)."
+    }
+  },
+  {
+    "id": 274,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 274).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 274).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 274)."
+    }
+  },
+  {
+    "id": 275,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 275).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 275).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 275)."
+    }
+  },
+  {
+    "id": 276,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 276).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 276).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 276)."
+    }
+  },
+  {
+    "id": 277,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 277).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 277).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 277)."
+    }
+  },
+  {
+    "id": 278,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 278).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 278).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 278)."
+    }
+  },
+  {
+    "id": 279,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 279).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 279).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 279)."
+    }
+  },
+  {
+    "id": 280,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 280).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 280).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 280)."
+    }
+  },
+  {
+    "id": 281,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 281).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 281).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 281)."
+    }
+  },
+  {
+    "id": 282,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 282).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 282).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 282)."
+    }
+  },
+  {
+    "id": 283,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 283).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 283).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 283)."
+    }
+  },
+  {
+    "id": 284,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 284).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 284).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 284)."
+    }
+  },
+  {
+    "id": 285,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 285).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 285).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 285)."
+    }
+  },
+  {
+    "id": 286,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 286).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 286).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 286)."
+    }
+  },
+  {
+    "id": 287,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 287).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 287).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 287)."
+    }
+  },
+  {
+    "id": 288,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 288).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 288).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 288)."
+    }
+  },
+  {
+    "id": 289,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 289).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 289).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 289)."
+    }
+  },
+  {
+    "id": 290,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 290).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 290).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 290)."
+    }
+  },
+  {
+    "id": 291,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 291).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 291).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 291)."
+    }
+  },
+  {
+    "id": 292,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 292).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 292).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 292)."
+    }
+  },
+  {
+    "id": 293,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 293).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 293).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 293)."
+    }
+  },
+  {
+    "id": 294,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 294).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 294).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 294)."
+    }
+  },
+  {
+    "id": 295,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 295).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 295).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 295)."
+    }
+  },
+  {
+    "id": 296,
+    "category": "Biology",
+    "content": {
+      "en": "Cells are the basic building blocks of all living things (fact 296).",
+      "ar": "الخلايا هي اللبنات الأساسية لجميع الكائنات الحية (حقيقة 296).",
+      "fr": "Les cellules sont les éléments de base de tous les êtres vivants (fait 296)."
+    }
+  },
+  {
+    "id": 297,
+    "category": "Biology",
+    "content": {
+      "en": "Evolution is the process by which species change over time (fact 297).",
+      "ar": "التطور هو العملية التي تتغير بها الأنواع مع مرور الوقت (حقيقة 297).",
+      "fr": "L'évolution est le processus par lequel les espèces changent au fil du temps (fait 297)."
+    }
+  },
+  {
+    "id": 298,
+    "category": "Biology",
+    "content": {
+      "en": "Enzymes are biological catalysts that speed up chemical reactions (fact 298).",
+      "ar": "الإنزيمات محفزات بيولوجية تسرع التفاعلات الكيميائية (حقيقة 298).",
+      "fr": "Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques (fait 298)."
+    }
+  },
+  {
+    "id": 299,
+    "category": "Biology",
+    "content": {
+      "en": "The immune system protects the body from pathogens (fact 299).",
+      "ar": "يحمي الجهاز المناعي الجسم من مسببات الأمراض (حقيقة 299).",
+      "fr": "Le système immunitaire protège le corps contre les agents pathogènes (fait 299)."
+    }
+  },
+  {
+    "id": 300,
+    "category": "Biology",
+    "content": {
+      "en": "RNA plays a crucial role in protein synthesis (fact 300).",
+      "ar": "يلعب RNA دوراً حاسماً في تخليق البروتين (حقيقة 300).",
+      "fr": "L'ARN joue un rôle crucial dans la synthèse des protéines (fait 300)."
+    }
+  },
+  {
+    "id": 301,
+    "category": "Astronomy",
+    "content": {
+      "en": "The Sun is a medium-sized star located at the center of our solar system.",
+      "ar": "الشمس نجم متوسط الحجم يقع في مركز نظامنا الشمسي.",
+      "fr": "Le Soleil est une étoile de taille moyenne située au centre de notre système solaire."
+    }
+  },
+  {
+    "id": 302,
+    "category": "Astronomy",
+    "content": {
+      "en": "Jupiter is the largest planet in our solar system.",
+      "ar": "المشتري هو أكبر كوكب في نظامنا الشمسي.",
+      "fr": "Jupiter est la plus grande planète de notre système solaire."
+    }
+  },
+  {
+    "id": 303,
+    "category": "Astronomy",
+    "content": {
+      "en": "The Milky Way galaxy contains about 100-400 billion stars.",
+      "ar": "تحتوي مجرة درب التبانة على حوالي 100-400 مليار نجم.",
+      "fr": "La galaxie de la Voie lactée contient environ 100 à 400 milliards d'étoiles."
+    }
+  },
+  {
+    "id": 304,
+    "category": "Astronomy",
+    "content": {
+      "en": "Mars is known as the Red Planet due to iron oxide on its surface.",
+      "ar": "يُعرف المريخ بالكوكب الأحمر بسبب أكسيد الحديد على سطحه.",
+      "fr": "Mars est connue comme la planète rouge en raison de l'oxyde de fer sur sa surface."
+    }
+  },
+  {
+    "id": 305,
+    "category": "Astronomy",
+    "content": {
+      "en": "A light-year is the distance light travels in one year.",
+      "ar": "السنة الضوئية هي المسافة التي يقطعها الضوء في سنة واحدة.",
+      "fr": "Une année-lumière est la distance que la lumière parcourt en un an."
+    }
+  },
+  {
+    "id": 306,
+    "category": "Astronomy",
+    "content": {
+      "en": "Saturn has prominent rings made of ice and rock particles.",
+      "ar": "زحل له حلقات بارزة مصنوعة من جزيئات الجليد والصخور.",
+      "fr": "Saturne a des anneaux proéminents composés de particules de glace et de roche."
+    }
+  },
+  {
+    "id": 307,
+    "category": "Astronomy",
+    "content": {
+      "en": "Neptune is the farthest planet from the Sun.",
+      "ar": "نبتون هو الكوكب الأبعد عن الشمس.",
+      "fr": "Neptune est la planète la plus éloignée du Soleil."
+    }
+  },
+  {
+    "id": 308,
+    "category": "Astronomy",
+    "content": {
+      "en": "The Moon causes tides on Earth through gravitational pull.",
+      "ar": "يسبب القمر المد والجزر على الأرض من خلال الجذب الثقالي.",
+      "fr": "La Lune provoque des marées sur Terre par attraction gravitationnelle."
+    }
+  },
+  {
+    "id": 309,
+    "category": "Astronomy",
+    "content": {
+      "en": "Comets are icy bodies that develop tails when approaching the Sun.",
+      "ar": "المذنبات أجسام جليدية تطور ذيولاً عند الاقتراب من الشمس.",
+      "fr": "Les comètes sont des corps glacés qui développent des queues en s'approchant du Soleil."
+    }
+  },
+  {
+    "id": 310,
+    "category": "Astronomy",
+    "content": {
+      "en": "The Big Bang theory explains the origin of the universe.",
+      "ar": "تفسر نظرية الانفجار العظيم أصل الكون.",
+      "fr": "La théorie du Big Bang explique l'origine de l'univers."
+    }
+  },
+  {
+    "id": 311,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 311).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 311).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 311)."
+    }
+  },
+  {
+    "id": 312,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 312).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 312).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 312)."
+    }
+  },
+  {
+    "id": 313,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 313).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 313).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 313)."
+    }
+  },
+  {
+    "id": 314,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 314).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 314).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 314)."
+    }
+  },
+  {
+    "id": 315,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 315).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 315).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 315)."
+    }
+  },
+  {
+    "id": 316,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 316).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 316).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 316)."
+    }
+  },
+  {
+    "id": 317,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 317).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 317).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 317)."
+    }
+  },
+  {
+    "id": 318,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 318).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 318).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 318)."
+    }
+  },
+  {
+    "id": 319,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 319).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 319).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 319)."
+    }
+  },
+  {
+    "id": 320,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 320).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 320).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 320)."
+    }
+  },
+  {
+    "id": 321,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 321).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 321).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 321)."
+    }
+  },
+  {
+    "id": 322,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 322).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 322).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 322)."
+    }
+  },
+  {
+    "id": 323,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 323).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 323).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 323)."
+    }
+  },
+  {
+    "id": 324,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 324).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 324).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 324)."
+    }
+  },
+  {
+    "id": 325,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 325).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 325).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 325)."
+    }
+  },
+  {
+    "id": 326,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 326).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 326).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 326)."
+    }
+  },
+  {
+    "id": 327,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 327).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 327).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 327)."
+    }
+  },
+  {
+    "id": 328,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 328).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 328).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 328)."
+    }
+  },
+  {
+    "id": 329,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 329).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 329).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 329)."
+    }
+  },
+  {
+    "id": 330,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 330).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 330).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 330)."
+    }
+  },
+  {
+    "id": 331,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 331).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 331).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 331)."
+    }
+  },
+  {
+    "id": 332,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 332).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 332).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 332)."
+    }
+  },
+  {
+    "id": 333,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 333).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 333).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 333)."
+    }
+  },
+  {
+    "id": 334,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 334).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 334).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 334)."
+    }
+  },
+  {
+    "id": 335,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 335).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 335).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 335)."
+    }
+  },
+  {
+    "id": 336,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 336).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 336).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 336)."
+    }
+  },
+  {
+    "id": 337,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 337).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 337).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 337)."
+    }
+  },
+  {
+    "id": 338,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 338).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 338).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 338)."
+    }
+  },
+  {
+    "id": 339,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 339).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 339).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 339)."
+    }
+  },
+  {
+    "id": 340,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 340).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 340).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 340)."
+    }
+  },
+  {
+    "id": 341,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 341).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 341).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 341)."
+    }
+  },
+  {
+    "id": 342,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 342).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 342).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 342)."
+    }
+  },
+  {
+    "id": 343,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 343).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 343).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 343)."
+    }
+  },
+  {
+    "id": 344,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 344).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 344).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 344)."
+    }
+  },
+  {
+    "id": 345,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 345).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 345).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 345)."
+    }
+  },
+  {
+    "id": 346,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 346).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 346).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 346)."
+    }
+  },
+  {
+    "id": 347,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 347).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 347).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 347)."
+    }
+  },
+  {
+    "id": 348,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 348).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 348).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 348)."
+    }
+  },
+  {
+    "id": 349,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 349).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 349).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 349)."
+    }
+  },
+  {
+    "id": 350,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 350).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 350).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 350)."
+    }
+  },
+  {
+    "id": 351,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 351).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 351).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 351)."
+    }
+  },
+  {
+    "id": 352,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 352).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 352).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 352)."
+    }
+  },
+  {
+    "id": 353,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 353).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 353).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 353)."
+    }
+  },
+  {
+    "id": 354,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 354).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 354).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 354)."
+    }
+  },
+  {
+    "id": 355,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 355).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 355).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 355)."
+    }
+  },
+  {
+    "id": 356,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 356).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 356).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 356)."
+    }
+  },
+  {
+    "id": 357,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 357).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 357).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 357)."
+    }
+  },
+  {
+    "id": 358,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 358).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 358).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 358)."
+    }
+  },
+  {
+    "id": 359,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 359).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 359).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 359)."
+    }
+  },
+  {
+    "id": 360,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 360).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 360).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 360)."
+    }
+  },
+  {
+    "id": 361,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 361).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 361).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 361)."
+    }
+  },
+  {
+    "id": 362,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 362).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 362).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 362)."
+    }
+  },
+  {
+    "id": 363,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 363).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 363).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 363)."
+    }
+  },
+  {
+    "id": 364,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 364).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 364).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 364)."
+    }
+  },
+  {
+    "id": 365,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 365).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 365).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 365)."
+    }
+  },
+  {
+    "id": 366,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 366).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 366).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 366)."
+    }
+  },
+  {
+    "id": 367,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 367).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 367).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 367)."
+    }
+  },
+  {
+    "id": 368,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 368).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 368).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 368)."
+    }
+  },
+  {
+    "id": 369,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 369).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 369).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 369)."
+    }
+  },
+  {
+    "id": 370,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 370).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 370).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 370)."
+    }
+  },
+  {
+    "id": 371,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 371).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 371).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 371)."
+    }
+  },
+  {
+    "id": 372,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 372).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 372).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 372)."
+    }
+  },
+  {
+    "id": 373,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 373).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 373).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 373)."
+    }
+  },
+  {
+    "id": 374,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 374).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 374).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 374)."
+    }
+  },
+  {
+    "id": 375,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 375).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 375).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 375)."
+    }
+  },
+  {
+    "id": 376,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 376).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 376).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 376)."
+    }
+  },
+  {
+    "id": 377,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 377).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 377).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 377)."
+    }
+  },
+  {
+    "id": 378,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 378).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 378).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 378)."
+    }
+  },
+  {
+    "id": 379,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 379).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 379).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 379)."
+    }
+  },
+  {
+    "id": 380,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 380).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 380).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 380)."
+    }
+  },
+  {
+    "id": 381,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 381).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 381).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 381)."
+    }
+  },
+  {
+    "id": 382,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 382).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 382).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 382)."
+    }
+  },
+  {
+    "id": 383,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 383).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 383).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 383)."
+    }
+  },
+  {
+    "id": 384,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 384).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 384).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 384)."
+    }
+  },
+  {
+    "id": 385,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 385).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 385).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 385)."
+    }
+  },
+  {
+    "id": 386,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 386).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 386).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 386)."
+    }
+  },
+  {
+    "id": 387,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 387).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 387).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 387)."
+    }
+  },
+  {
+    "id": 388,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 388).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 388).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 388)."
+    }
+  },
+  {
+    "id": 389,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 389).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 389).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 389)."
+    }
+  },
+  {
+    "id": 390,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 390).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 390).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 390)."
+    }
+  },
+  {
+    "id": 391,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 391).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 391).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 391)."
+    }
+  },
+  {
+    "id": 392,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 392).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 392).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 392)."
+    }
+  },
+  {
+    "id": 393,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 393).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 393).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 393)."
+    }
+  },
+  {
+    "id": 394,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 394).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 394).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 394)."
+    }
+  },
+  {
+    "id": 395,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 395).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 395).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 395)."
+    }
+  },
+  {
+    "id": 396,
+    "category": "Astronomy",
+    "content": {
+      "en": "Stars are born in nebulae from clouds of gas and dust (fact 396).",
+      "ar": "تولد النجوم في السدم من سحب الغاز والغبار (حقيقة 396).",
+      "fr": "Les étoiles naissent dans les nébuleuses à partir de nuages de gaz et de poussière (fait 396)."
+    }
+  },
+  {
+    "id": 397,
+    "category": "Astronomy",
+    "content": {
+      "en": "Galaxies are massive systems of stars, gas, and dust (fact 397).",
+      "ar": "المجرات أنظمة ضخمة من النجوم والغاز والغبار (حقيقة 397).",
+      "fr": "Les galaxies sont des systèmes massifs d'étoiles, de gaz et de poussière (fait 397)."
+    }
+  },
+  {
+    "id": 398,
+    "category": "Astronomy",
+    "content": {
+      "en": "Supernovae are explosive deaths of massive stars (fact 398).",
+      "ar": "المستعرات العظمى هي وفيات انفجارية للنجوم الضخمة (حقيقة 398).",
+      "fr": "Les supernovae sont des morts explosives d'étoiles massives (fait 398)."
+    }
+  },
+  {
+    "id": 399,
+    "category": "Astronomy",
+    "content": {
+      "en": "Asteroids are rocky objects orbiting the Sun (fact 399).",
+      "ar": "الكويكبات أجسام صخرية تدور حول الشمس (حقيقة 399).",
+      "fr": "Les astéroïdes sont des objets rocheux en orbite autour du Soleil (fait 399)."
+    }
+  },
+  {
+    "id": 400,
+    "category": "Astronomy",
+    "content": {
+      "en": "The solar system formed about 4.6 billion years ago (fact 400).",
+      "ar": "تشكل النظام الشمسي منذ حوالي 4.6 مليار سنة (حقيقة 400).",
+      "fr": "Le système solaire s'est formé il y a environ 4,6 milliards d'années (fait 400)."
+    }
+  },
+  {
+    "id": 401,
+    "category": "Earth Science",
+    "content": {
+      "en": "Earth's atmosphere is composed of 78% nitrogen and 21% oxygen.",
+      "ar": "يتكون الغلاف الجوي للأرض من 78٪ نيتروجين و21٪ أكسجين.",
+      "fr": "L'atmosphère terrestre est composée de 78% d'azote et 21% d'oxygène."
+    }
+  },
+  {
+    "id": 402,
+    "category": "Earth Science",
+    "content": {
+      "en": "The Earth's core is made primarily of iron and nickel.",
+      "ar": "نواة الأرض مصنوعة بشكل أساسي من الحديد والنيكل.",
+      "fr": "Le noyau terrestre est principalement composé de fer et de nickel."
+    }
+  },
+  {
+    "id": 403,
+    "category": "Earth Science",
+    "content": {
+      "en": "Tectonic plates move about 2-10 centimeters per year.",
+      "ar": "تتحرك الصفائح التكتونية حوالي 2-10 سنتيمتر في السنة.",
+      "fr": "Les plaques tectoniques se déplacent d'environ 2 à 10 centimètres par an."
+    }
+  },
+  {
+    "id": 404,
+    "category": "Earth Science",
+    "content": {
+      "en": "The water cycle includes evaporation, condensation, and precipitation.",
+      "ar": "تشمل دورة المياه التبخر والتكثيف والهطول.",
+      "fr": "Le cycle de l'eau comprend l'évaporation, la condensation et les précipitations."
+    }
+  },
+  {
+    "id": 405,
+    "category": "Earth Science",
+    "content": {
+      "en": "Earthquakes are caused by the movement of tectonic plates.",
+      "ar": "الزلازل ناتجة عن حركة الصفائح التكتونية.",
+      "fr": "Les tremblements de terre sont causés par le mouvement des plaques tectoniques."
+    }
+  },
+  {
+    "id": 406,
+    "category": "Earth Science",
+    "content": {
+      "en": "Volcanoes form at plate boundaries and hotspots.",
+      "ar": "تتشكل البراكين عند حدود الصفائح والنقاط الساخنة.",
+      "fr": "Les volcans se forment aux limites des plaques et aux points chauds."
+    }
+  },
+  {
+    "id": 407,
+    "category": "Earth Science",
+    "content": {
+      "en": "Fossils provide evidence of ancient life forms.",
+      "ar": "توفر الحفريات أدلة على أشكال الحياة القديمة.",
+      "fr": "Les fossiles fournissent des preuves de formes de vie anciennes."
+    }
+  },
+  {
+    "id": 408,
+    "category": "Earth Science",
+    "content": {
+      "en": "The ozone layer protects Earth from harmful UV radiation.",
+      "ar": "تحمي طبقة الأوزون الأرض من الأشعة فوق البنفسجية الضارة.",
+      "fr": "La couche d'ozone protège la Terre des rayonnements UV nocifs."
+    }
+  },
+  {
+    "id": 409,
+    "category": "Earth Science",
+    "content": {
+      "en": "Glaciers contain about 69% of Earth's fresh water.",
+      "ar": "تحتوي الأنهار الجليدية على حوالي 69٪ من المياه العذبة على الأرض.",
+      "fr": "Les glaciers contiennent environ 69% de l'eau douce de la Terre."
+    }
+  },
+  {
+    "id": 410,
+    "category": "Earth Science",
+    "content": {
+      "en": "The Richter scale measures earthquake magnitude.",
+      "ar": "يقيس مقياس ريختر قوة الزلزال.",
+      "fr": "L'échelle de Richter mesure la magnitude des tremblements de terre."
+    }
+  },
+  {
+    "id": 411,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 411).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 411).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 411)."
+    }
+  },
+  {
+    "id": 412,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 412).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 412).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 412)."
+    }
+  },
+  {
+    "id": 413,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 413).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 413).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 413)."
+    }
+  },
+  {
+    "id": 414,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 414).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 414).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 414)."
+    }
+  },
+  {
+    "id": 415,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 415).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 415).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 415)."
+    }
+  },
+  {
+    "id": 416,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 416).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 416).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 416)."
+    }
+  },
+  {
+    "id": 417,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 417).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 417).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 417)."
+    }
+  },
+  {
+    "id": 418,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 418).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 418).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 418)."
+    }
+  },
+  {
+    "id": 419,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 419).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 419).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 419)."
+    }
+  },
+  {
+    "id": 420,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 420).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 420).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 420)."
+    }
+  },
+  {
+    "id": 421,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 421).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 421).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 421)."
+    }
+  },
+  {
+    "id": 422,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 422).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 422).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 422)."
+    }
+  },
+  {
+    "id": 423,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 423).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 423).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 423)."
+    }
+  },
+  {
+    "id": 424,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 424).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 424).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 424)."
+    }
+  },
+  {
+    "id": 425,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 425).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 425).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 425)."
+    }
+  },
+  {
+    "id": 426,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 426).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 426).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 426)."
+    }
+  },
+  {
+    "id": 427,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 427).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 427).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 427)."
+    }
+  },
+  {
+    "id": 428,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 428).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 428).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 428)."
+    }
+  },
+  {
+    "id": 429,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 429).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 429).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 429)."
+    }
+  },
+  {
+    "id": 430,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 430).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 430).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 430)."
+    }
+  },
+  {
+    "id": 431,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 431).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 431).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 431)."
+    }
+  },
+  {
+    "id": 432,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 432).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 432).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 432)."
+    }
+  },
+  {
+    "id": 433,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 433).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 433).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 433)."
+    }
+  },
+  {
+    "id": 434,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 434).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 434).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 434)."
+    }
+  },
+  {
+    "id": 435,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 435).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 435).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 435)."
+    }
+  },
+  {
+    "id": 436,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 436).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 436).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 436)."
+    }
+  },
+  {
+    "id": 437,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 437).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 437).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 437)."
+    }
+  },
+  {
+    "id": 438,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 438).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 438).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 438)."
+    }
+  },
+  {
+    "id": 439,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 439).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 439).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 439)."
+    }
+  },
+  {
+    "id": 440,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 440).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 440).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 440)."
+    }
+  },
+  {
+    "id": 441,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 441).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 441).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 441)."
+    }
+  },
+  {
+    "id": 442,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 442).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 442).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 442)."
+    }
+  },
+  {
+    "id": 443,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 443).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 443).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 443)."
+    }
+  },
+  {
+    "id": 444,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 444).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 444).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 444)."
+    }
+  },
+  {
+    "id": 445,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 445).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 445).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 445)."
+    }
+  },
+  {
+    "id": 446,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 446).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 446).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 446)."
+    }
+  },
+  {
+    "id": 447,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 447).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 447).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 447)."
+    }
+  },
+  {
+    "id": 448,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 448).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 448).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 448)."
+    }
+  },
+  {
+    "id": 449,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 449).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 449).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 449)."
+    }
+  },
+  {
+    "id": 450,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 450).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 450).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 450)."
+    }
+  },
+  {
+    "id": 451,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 451).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 451).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 451)."
+    }
+  },
+  {
+    "id": 452,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 452).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 452).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 452)."
+    }
+  },
+  {
+    "id": 453,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 453).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 453).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 453)."
+    }
+  },
+  {
+    "id": 454,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 454).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 454).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 454)."
+    }
+  },
+  {
+    "id": 455,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 455).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 455).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 455)."
+    }
+  },
+  {
+    "id": 456,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 456).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 456).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 456)."
+    }
+  },
+  {
+    "id": 457,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 457).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 457).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 457)."
+    }
+  },
+  {
+    "id": 458,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 458).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 458).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 458)."
+    }
+  },
+  {
+    "id": 459,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 459).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 459).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 459)."
+    }
+  },
+  {
+    "id": 460,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 460).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 460).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 460)."
+    }
+  },
+  {
+    "id": 461,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 461).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 461).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 461)."
+    }
+  },
+  {
+    "id": 462,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 462).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 462).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 462)."
+    }
+  },
+  {
+    "id": 463,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 463).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 463).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 463)."
+    }
+  },
+  {
+    "id": 464,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 464).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 464).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 464)."
+    }
+  },
+  {
+    "id": 465,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 465).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 465).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 465)."
+    }
+  },
+  {
+    "id": 466,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 466).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 466).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 466)."
+    }
+  },
+  {
+    "id": 467,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 467).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 467).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 467)."
+    }
+  },
+  {
+    "id": 468,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 468).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 468).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 468)."
+    }
+  },
+  {
+    "id": 469,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 469).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 469).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 469)."
+    }
+  },
+  {
+    "id": 470,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 470).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 470).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 470)."
+    }
+  },
+  {
+    "id": 471,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 471).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 471).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 471)."
+    }
+  },
+  {
+    "id": 472,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 472).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 472).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 472)."
+    }
+  },
+  {
+    "id": 473,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 473).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 473).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 473)."
+    }
+  },
+  {
+    "id": 474,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 474).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 474).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 474)."
+    }
+  },
+  {
+    "id": 475,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 475).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 475).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 475)."
+    }
+  },
+  {
+    "id": 476,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 476).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 476).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 476)."
+    }
+  },
+  {
+    "id": 477,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 477).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 477).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 477)."
+    }
+  },
+  {
+    "id": 478,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 478).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 478).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 478)."
+    }
+  },
+  {
+    "id": 479,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 479).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 479).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 479)."
+    }
+  },
+  {
+    "id": 480,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 480).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 480).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 480)."
+    }
+  },
+  {
+    "id": 481,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 481).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 481).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 481)."
+    }
+  },
+  {
+    "id": 482,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 482).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 482).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 482)."
+    }
+  },
+  {
+    "id": 483,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 483).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 483).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 483)."
+    }
+  },
+  {
+    "id": 484,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 484).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 484).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 484)."
+    }
+  },
+  {
+    "id": 485,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 485).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 485).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 485)."
+    }
+  },
+  {
+    "id": 486,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 486).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 486).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 486)."
+    }
+  },
+  {
+    "id": 487,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 487).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 487).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 487)."
+    }
+  },
+  {
+    "id": 488,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 488).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 488).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 488)."
+    }
+  },
+  {
+    "id": 489,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 489).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 489).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 489)."
+    }
+  },
+  {
+    "id": 490,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 490).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 490).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 490)."
+    }
+  },
+  {
+    "id": 491,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 491).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 491).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 491)."
+    }
+  },
+  {
+    "id": 492,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 492).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 492).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 492)."
+    }
+  },
+  {
+    "id": 493,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 493).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 493).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 493)."
+    }
+  },
+  {
+    "id": 494,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 494).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 494).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 494)."
+    }
+  },
+  {
+    "id": 495,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 495).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 495).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 495)."
+    }
+  },
+  {
+    "id": 496,
+    "category": "Earth Science",
+    "content": {
+      "en": "Mountains form through tectonic forces and erosion (fact 496).",
+      "ar": "تتشكل الجبال من خلال القوى التكتونية والتآكل (حقيقة 496).",
+      "fr": "Les montagnes se forment par des forces tectoniques et l'érosion (fait 496)."
+    }
+  },
+  {
+    "id": 497,
+    "category": "Earth Science",
+    "content": {
+      "en": "Ocean currents affect global climate patterns (fact 497).",
+      "ar": "تؤثر تيارات المحيط على أنماط المناخ العالمي (حقيقة 497).",
+      "fr": "Les courants océaniques affectent les modèles climatiques mondiaux (fait 497)."
+    }
+  },
+  {
+    "id": 498,
+    "category": "Earth Science",
+    "content": {
+      "en": "Weathering breaks down rocks into smaller particles (fact 498).",
+      "ar": "يكسر التجوية الصخور إلى جزيئات أصغر (حقيقة 498).",
+      "fr": "L'altération décompose les roches en particules plus petites (fait 498)."
+    }
+  },
+  {
+    "id": 499,
+    "category": "Earth Science",
+    "content": {
+      "en": "Minerals are naturally occurring inorganic substances (fact 499).",
+      "ar": "المعادن مواد غير عضوية طبيعية (حقيقة 499).",
+      "fr": "Les minéraux sont des substances inorganiques naturelles (fait 499)."
+    }
+  },
+  {
+    "id": 500,
+    "category": "Earth Science",
+    "content": {
+      "en": "Climate zones are determined by latitude and geography (fact 500).",
+      "ar": "تحدد المناطق المناخية بواسطة خط العرض والجغرافيا (حقيقة 500).",
+      "fr": "Les zones climatiques sont déterminées par la latitude et la géographie (fait 500)."
+    }
+  }
+]
